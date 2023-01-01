@@ -1,0 +1,10 @@
+[submodule "datasrc/languages"]
+	path = datasrc/languages
+	url = git://github.com/teeworlds/teeworlds-translation.git
+	branch = master
+[submodule "ddnet-libs"]
+	path = ddnet-libs
+	url = https://github.com/ddnet/ddnet-libs
+[submodule "datasrc/maps"]
+	path = datasrc/maps
+	url = https://github.com/DDNetPP/maps
