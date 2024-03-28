@@ -5,3 +5,6 @@ F-DDrace is a mod for Teeworlds 0.7 developed by fokkonaut.
 If you need any help, feel free to ask me on Discord and/or join my Discord server: fokkonaut#5556, https://discord.gg/xxxxxx
 
 	git clone -b F-DDrace https://github.com/itubetw/F-DDrace --recursive
+
+
+disclaimer: it is an older version of the original version
